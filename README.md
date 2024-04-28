@@ -1,5 +1,5 @@
 # Bioinfo2024
-Classification of bio-informatic sentences extracted from scientific articles. Use of classic ML and neural networks.
+Classification of bio-informatic sentences extracted from scientific articles. Use of classic ML and neural networks. <br>
 The project comes with a report detailing methods and results interpreted from our experiences.
 This project was realized with Ludovic Guyader, who was mainly tasked with the creation of the word2vec model, whereas i was tasked with the classification part.
 
@@ -13,7 +13,6 @@ Folder :
 proj_100d_external -> contains .bin and 2 extra files for the pre-trained word embedding
 models -> should fill up with test_hyper_param.ipynb
 
-Code is not optimized for NVidia (no Cuda). Everything work with the CPU.
+Code is not optimized for NVidia (no Cuda). Everything works with the CPU in a decent amount of time.
 
-if there is any trouble at all with any files, contact us via e-mail (prenom.nom@universite-paris-saclay.fr)
-The report is included in the e-campus file.
+If there is any trouble at all with any files, contact us via e-mail (paul.oriat@universite-paris-saclay.fr, paul.oriat@gmail.com)
