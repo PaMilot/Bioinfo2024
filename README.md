@@ -15,4 +15,4 @@ models -> should fill up with test_hyper_param.ipynb<br>
 <br>
 Code is not optimized for NVidia (no Cuda). Everything works with the CPU in a decent amount of time.<br>
 <br>
-If there is any trouble at all with any files, contact us via e-mail (paul.oriat@universite-paris-saclay.fr, paul.oriat@gmail.com)
+If there is any trouble at all with any files, contact us via e-mail (paul.oriat@gmail.com)
